@@ -5,5 +5,5 @@ Advanced Programming - HW1
 Dr.Amir Jahanshahi
 </h2>
 <h3>
-Deadline: Friday, 15 Esfand - 23:00
+Deadline: Wednesday, 17 Esfand - 23:59
 </center>
